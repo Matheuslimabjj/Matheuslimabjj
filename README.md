@@ -9,7 +9,7 @@
 
 - 🤝 Busco ajuda com: **- Hardening de servidores Linux - Boas práticas em React e Node.js**
 
-- 👨‍💻 Meus projetos estão aqui: [[https://github.com/Matheuslimabjj?tab=repositories](https://github.com/Matheuslimabjj?tab=repositories)]([https://github.com/Matheuslimabjj?tab=repositories](https://github.com/Matheuslimabjj?tab=repositories))
+- 👨‍💻 Meus projetos estão aqui: [[https://github.com/Matheuslimabjj?tab=repositories](https://github.com/Matheuslimabjj?tab=repositories)]
 
 - 💬 Me pergunte sobre: **JS, CSS, HTML, Kali Linux**
 
