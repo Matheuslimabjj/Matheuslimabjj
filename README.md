@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/P5FkCQpR/Animation-1745645028076.gif" alt="Animação Lottie" width="300"/>
+  <img src="https://i.postimg.cc/43zwDJgQ/Season-4-Episode-3-GIF-by-Rick-and-Morty.gif" alt="Animação Lottie" width="300"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Matheus!👋</h1>
