@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/P5FkCQpR/Animation-1745645028076.gif" alt="Animação Lottie" width="300"/>
+</p>
+
 <h1 align="center">Olá, eu sou o Matheus!👋</h1>
 <h3 align="center">Aspirante a Desenvolvedor apaixonado por Cybersegurança.</h3>
 
