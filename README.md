@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭🔭 Atualmente estou trabalhando em: [[Roadmap Fullstack + Cybersegurança]](https://github.com/Matheuslimabjj/roadmap-ads-fullstack-cyber)
+- 🔭 Atualmente estou trabalhando em: [[Roadmap Fullstack + Cybersegurança]](https://github.com/Matheuslimabjj/roadmap-ads-fullstack-cyber)
 
-- 🌱 Atualmente estudo: **-Análise e Desenvolvimento de Sistemas pela Descomplica. - React , Node.js, Typescript, Cybersecurity Specialist pela Dio.me - EthicalHacker pela Udemy.**
+- 🌱 Estou estudando: **-Análise e Desenvolvimento de Sistemas pela Descomplica. - React , Node.js, Typescript, Cybersecurity Specialist pela Dio.me - EthicalHacker pela Udemy.**
 
 - 👯 Quero colaborar em: **- Projetos de Segurança da Informação - Desenvolvimento Web (Front e Back)**
 
-- 🤝 Estou buscando ajuda com: **- Hardening de servidores Linux - Boas práticas em React e Node.js**
+- 🤝 Busco ajuda com: **- Hardening de servidores Linux - Boas práticas em React e Node.js**
 
-- 👨‍💻 Todos os meus projetos estão aqui: [https://github.com/Matheuslimabjj?tab=repositories](https://github.com/Matheuslimabjj?tab=repositories)
+- 👨‍💻 Meus projetos estão aqui: [https://github.com/Matheuslimabjj?tab=repositories](https://github.com/Matheuslimabjj?tab=repositories)
 
 - 💬 Me pergunte sobre: **JS, CSS, HTML, Kali Linux**
 
