@@ -2,8 +2,8 @@
   <img src="https://i.postimg.cc/43zwDJgQ/Season-4-Episode-3-GIF-by-Rick-and-Morty.gif" alt="Rick and Morty" width="300"/>
 </p>
 
-<h1 align="center">Salve, eu sou o Matheus! 👋</h1>
-<h3 align="center">Fullstack Dev em formação | Cybersecurity Enthusiast | Lifelong Learner</h3>
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Salve, eu sou o Matheus! 👋</h1>
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Fullstack Dev em formação | Cybersecurity Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge&logo=openbadges" />
@@ -13,27 +13,31 @@
 
 ---
 
-🌟 **Sobre mim**  
+<div align="center" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 20px;">
+
+🌟 <b>Sobre mim</b>  
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas - Descomplica Digital  
 - 🛡️ Fisioterapeuta de formação e agora desenvolvedor em transição para tecnologia  
-- 🥋 Faixa marrom de Jiu-Jitsu — disciplina, resiliência e estratégia no DNA  
+- 🏋️‍♂️ Faixa marrom de Jiu-Jitsu — disciplina, resiliência e estratégia no DNA  
 - 💻 Foco em Desenvolvimento Fullstack, Cybersecurity e Hardening de Servidores  
 - 🔥 Selecionado no Programa Desenvolve (Grupo Boticário + Koru) e DIO Campus Expert (Turma 12)
 
+</div>
+
 ---
 
-🚀 **O que estou fazendo agora:**  
+🚀 <b>O que estou fazendo agora:</b>  
 - [x] Construindo meu roadmap Fullstack + Cybersegurança 🚀  
 - [x] Aprimorando skills em React, Node.js, TypeScript e Pentest Tools 🔥  
 - [x] Participando de mentorias e capacitações de alto impacto.
 
-🔗 **Projetos e contribuições:**  
-- [Repositórios no GitHub](https://github.com/Matheuslimabjj?tab=repositories)
+🔗 <b>Projetos e contribuições:</b>  
+- [Repositórios no GitHub](https://github.com/Matheuslimabjj?tab=repositories)  
 - [Meu Roadmap Fullstack + Cyber](https://github.com/Matheuslimabjj/roadmap-ads-fullstack-cyber)
 
 ---
 
-<h3 align="center">⚡ Skills e Ferramentas</h3>
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">💡 Skills e Ferramentas</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" />
@@ -45,12 +49,23 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuslimabjj&show_icons=true&theme=radical" alt="Matheus GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuslimabjj&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslimabjj&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslimabjj&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🔥 Meus commits pegando fogo!</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslimabjj&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">💻 Meu heatmap de atividade</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=matheuslimabjj&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -64,3 +79,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/sx8pB8z2/Cat-Working-Hard-GIF.gif" alt="Coding Cat" width="300"/>
 </p>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+</style>
