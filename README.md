@@ -17,7 +17,7 @@
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 20px;">
+<div align="left" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 20px;">
 
 🌟 <b>Sobre mim</b>  
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas - Descomplica Digital  
@@ -26,19 +26,6 @@
 - 💻 Foco em Desenvolvimento Fullstack, Cybersecurity e Hardening de Servidores  
 
 </div>
-
----
-
-🚀 <b>O que estou fazendo agora:</b>  
-- [x] Construindo meu roadmap Fullstack + Cybersegurança 🚀  
-- [x] Aprimorando skills em React, Node.js, TypeScript e Pentest Tools 🔥  
-- [x] Participando de mentorias e capacitações de alto impacto.
-
-🔗 <b>Projetos e contribuições:</b>  
-- [Repositórios no GitHub](https://github.com/Matheuslimabjj?tab=repositories)  
-- [Meu Roadmap Fullstack + Cyber](https://github.com/Matheuslimabjj/roadmap-ads-fullstack-cyber)
-
----
 
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">💡 Skills e Ferramentas</h3>
 <p align="center">
