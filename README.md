@@ -2,6 +2,10 @@
   <img src="https://i.postimg.cc/43zwDJgQ/Season-4-Episode-3-GIF-by-Rick-and-Morty.gif" alt="Rick and Morty" width="300"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Graduando+em+ADS+pela+Descomplica;Fullstack+Dev+em+forma%C3%A7%C3%A3o;Cybersecurity+Enthusiast;Fisioterapeuta+em+transi%C3%A7%C3%A3o+de+carreira;Faixa+marrom+de+Jiu-Jitsu;Amante+de+c%C3%B3digo+e+tecnologia!&center=true&width=800&height=50&color=00FFFF&vCenter=true&size=24" alt="Typing SVG">
+</p>
+
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Salve, eu sou o Matheus! 👋</h1>
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Fullstack Dev em formação | Cybersecurity Enthusiast | Lifelong Learner</h3>
 
