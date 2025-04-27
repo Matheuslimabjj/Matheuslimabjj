@@ -69,7 +69,7 @@
 
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">💻 Meu heatmap de atividade</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=matheuslimabjj&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheuslimabjj&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
