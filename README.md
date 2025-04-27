@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Graduando+em+ADS;Fullstack+Dev+em+forma%C3%A7%C3%A3o;Cybersecurity+Enthusiast;Faixa+marrom+de+Jiu-Jitsu;Amante+de+c%C3%B3digo+e+tecnologia!&center=true&width=800&height=50&color=00FFFF&vCenter=true&size=24" alt="Typing SVG">
 </p>
 
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Salve, eu sou o Matheus! 👋</h1>
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus! 👋</h1>
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Fullstack Dev em formação | Cybersecurity Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
