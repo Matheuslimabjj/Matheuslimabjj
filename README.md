@@ -71,5 +71,3 @@
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Matheuslimabjj/Matheuslimabjj/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-![snake gif](https://github.com/Matheuslimabjj/Matheuslimabjj/blob/output/github-contribution-grid-snake.svg)
-
