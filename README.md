@@ -84,6 +84,3 @@
   <img src="https://i.postimg.cc/sx8pB8z2/Cat-Working-Hard-GIF.gif" alt="Coding Cat" width="300"/>
 </p>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-</style>
