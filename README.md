@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" />
   <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
-  <img src="https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&color=007ACC" />
+  <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=3776AB" />
   <img src="https://img.shields.io/badge/Linux-Server%20Hardening-important?style=flat&logo=linux&color=FCC624" />
   <img src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=F24E1E" />
 </p>
