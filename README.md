@@ -30,11 +30,15 @@
 <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">💡 Stacks 🛠 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&color=E34F26" />
+  <img src="https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&color=1572B6" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity-informational?style=flat&logo=hackthebox&color=2E8B57" />
+  <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=3776AB" />
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" />
   <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" />
-  <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=3776AB" />
   <img src="https://img.shields.io/badge/Linux-Server%20Hardening-important?style=flat&logo=linux&color=FCC624" />
   <img src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&color=F24E1E" />
+
 </p>
 
 ---
