@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps+em+formação;Purple+Team+futuro;Fullstack+Developer;Cybersecurity+Hardening+Lover;&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps+em+formação;Futuro+ Purple+Team;Cybersecurity+Hardening+Lover;&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
 </p>
 
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus! 👋</h1>
@@ -21,7 +21,7 @@
 
 🌟 <b>Sobre mim</b>  
 🎓 Graduando em Análise e Desenvolvimento de Sistemas  
-🛡️ Ex-fisioterapeuta, agora em transição para o mundo tech  
+🛡️ Em transição para o mundo tech  
 🧠 Foco total em DevSecOps, pipelines seguras e hardening de infraestrutura  
 🔐 Apaixonado por Cybersegurança, especialmente Blue Team & Red Team strategies  
 🥋 Faixa marrom de Jiu-Jitsu — disciplina, paciência e resiliência fazem parte do meu mindset  
