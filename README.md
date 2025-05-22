@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus! 👋</h1>
-<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">DevSecOps | Fullstack em formação | Cybersecurity Hardener | Purple Team Enthusiast</h3>
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">DevSecOps | Cybersecurity Hardener | Purple Team Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge&logo=openbadges" />
