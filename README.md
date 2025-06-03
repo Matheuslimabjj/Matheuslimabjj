@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps+em+aprendizado;Futuro+Purple+Team;Cloud+Security+em+foco;&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps+em+aprendizado;Cybersecurity+Enthusiast;Cloud+Security+em+foco;&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
 </p>
 
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus! 👋</h1>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Aprendendo%20todos%20os%20dias-blue?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Meta-Purple%20Team%20futuro-purple?style=for-the-badge&logo=thealgorithms" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-purple?style=for-the-badge&logo=thealgorithms" />
   <img src="https://img.shields.io/badge/Trilha-DevSecOps%20e%20Cloud-informational?style=for-the-badge&logo=cloudflare" />
 </p>
 
