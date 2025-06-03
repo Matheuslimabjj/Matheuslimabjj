@@ -17,21 +17,17 @@
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 20px;">
+## 🌟 Sobre mim
 
-🌟 <b>Sobre mim</b>  
-🎓 Graduando em Análise e Desenvolvimento de Sistemas  
-🛡️ Em transição de carreira
+🎓 Graduando em Análise e Desenvolvimento de Sistemas,  Em transição de carreira  
 🔐 Explorando fundamentos de segurança ofensiva (Red)🔴 e defensiva (Blue)🔵  
-☁️ aprendendo a construir e proteger aplicações na nuvem, E
-estudando AWS, Azure, CI/CD e práticas de DevSecOps  
+☁️ Aprendendo a construir e proteger aplicações na nuvem  
+🛡️ Estudando AWS, Azure, CI/CD e práticas de DevSecOps  
 🥋 Faixa marrom de Jiu-Jitsu — foco, disciplina e persistência estão no meu DNA  
-
-</div>
 
 ---
 
-<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">💡 Stacks e Tecnologias em Estudo</h3>
+## 💡 Stacks e Tecnologias em Estudo
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
@@ -49,7 +45,8 @@ estudando AWS, Azure, CI/CD e práticas de DevSecOps
 
 ---
 
-<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheuslimabjj&show_icons=true&theme=radical&hide_border=true" />
 </p>
@@ -64,7 +61,8 @@ estudando AWS, Azure, CI/CD e práticas de DevSecOps
 
 ---
 
-<h3 align="center">🌎 Vamos nos conectar!</h3>
+## 🌎 Vamos nos conectar!
+
 <p align="center">
   <a href="mailto:mfolima.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mfolima.dev@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/matheus-lima-91a221334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
