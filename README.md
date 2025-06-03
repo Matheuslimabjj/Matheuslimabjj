@@ -16,7 +16,7 @@
 </p>
 
 ---
-<p align="center">
+<div align="center">
 ## 🌟 Sobre mim
 
 🎓 Graduando em Análise e Desenvolvimento de Sistemas,  Em transição de carreira  
@@ -24,7 +24,7 @@
 ☁️ Aprendendo a construir e proteger aplicações na nuvem  
 🛡️ Estudando AWS, Azure, CI/CD e práticas de DevSecOps  
 🥋 Faixa marrom de Jiu-Jitsu — foco, disciplina e persistência estão no meu DNA  
-</p>
+</div>
 ---
 
 ## 💡 Stacks e Tecnologias em Estudo
