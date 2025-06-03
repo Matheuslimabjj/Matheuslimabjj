@@ -23,8 +23,8 @@
 🎓 Graduando em Análise e Desenvolvimento de Sistemas  
 🛡️ Em transição de carreira, aprendendo a construir e proteger aplicações na nuvem  
 ☁️ Estudando AWS, Azure, CI/CD e práticas de DevSecOps  
-🔐 Explorando fundamentos de segurança ofensiva (Red)🔴 e defensiva (Blue)🔵 
 🥋 Faixa marrom de Jiu-Jitsu — foco, disciplina e persistência estão no meu DNA  
+🔐 Explorando fundamentos de segurança ofensiva (Red)🔴 e defensiva (Blue)🔵 
 
 </div>
 
