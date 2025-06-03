@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DevSecOps+em+aprendizado;Cybersecurity+Enthusiast;Cloud+Security+em+foco;&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Enthusiast;DevSecOps+em+aprendizado;Cloud+Security+em+foco;&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
 </p>
 
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus! 👋</h1>
