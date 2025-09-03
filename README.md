@@ -43,6 +43,25 @@
   <img src="https://img.shields.io/badge/Security-Fundamentos-informational?style=flat&logo=linux&color=FCC624" />
   <img src="https://img.shields.io/badge/Platform-HackTheBox-informational?style=flat&logo=hackthebox&color=9FEF00" />
   <img src="https://img.shields.io/badge/Platform-TryHackMe-informational?style=flat&logo=tryhackme&color=212C42" />
+  
+  <!-- Sistemas Operacionais -->
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=kalilinux&color=557C94" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624" />
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=0078D6" />
+  
+  <!-- Ferramentas de Segurança -->
+  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-informational?style=flat&logo=burpsuite&color=FF6633" />
+  <img src="https://img.shields.io/badge/Tool-Metasploit-informational?style=flat&logo=metasploit&color=2596CD" />
+  <img src="https://img.shields.io/badge/Tool-John%20the%20Ripper-informational?style=flat&logo=linux&color=8B0000" />
+  <img src="https://img.shields.io/badge/Tool-Wireshark-informational?style=flat&logo=wireshark&color=1679A7" />
+  <img src="https://img.shields.io/badge/Tool-Nmap-informational?style=flat&logo=nmap&color=4682B4" />
+  
+  <!-- Conhecimentos em Segurança -->
+  <img src="https://img.shields.io/badge/Security-OWASP%20Top%2010-informational?style=flat&logo=owasp&color=000000" />
+  <img src="https://img.shields.io/badge/Security-Criptografia-informational?style=flat&logo=letsencrypt&color=003A70" />
+  <img src="https://img.shields.io/badge/Security-OSINT-informational?style=flat&logo=osint&color=FF6B35" />
+  <img src="https://img.shields.io/badge/Security-Threat%20Intelligence-informational?style=flat&logo=security&color=DC143C" />
+  <img src="https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-informational?style=flat&logo=mitre&color=FF0000" />
 </p>
 
 ---
