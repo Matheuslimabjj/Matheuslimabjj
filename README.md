@@ -40,12 +40,7 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=3776AB" />
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=4EAA25" />
-  <img src="https://img.shields.io/badge/Platform-AWS-informational?style=flat&logo=amazonaws&color=FF9900" />
-  <img src="https://img.shields.io/badge/Platform-Azure-informational?style=flat&logo=microsoftazure&color=0078D4" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-informational?style=flat&logo=githubactions&color=2088FF" />
   <img src="https://img.shields.io/badge/Security-Fundamentos-informational?style=flat&logo=linux&color=FCC624" />
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED" />
-  <img src="https://img.shields.io/badge/Learning-DevSecOps%20Basics-informational?style=flat&logo=probot&color=purple" />
   <img src="https://img.shields.io/badge/Platform-HackTheBox-informational?style=flat&logo=hackthebox&color=9FEF00" />
   <img src="https://img.shields.io/badge/Platform-TryHackMe-informational?style=flat&logo=tryhackme&color=212C42" />
 </p>
