@@ -1,7 +1,6 @@
-
-  <img src="https://i.postimg.cc/43zwDJgQ/Season-4-Episode-3-GIF-by-Rick-and-Morty.gif" alt="Rick and Morty" width="300"/>
+<p align="center">
+  <img src="https://i.postimg.cc/43zwDJgQ/Season-4-Episode-3-GIF-by-Rick-and-Morty.gif" alt="Rick and Morty" width="300">
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Enthusiast;DevSecOps+em+aprendizado;Cloud+Security+em+foco;&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
 </p>
