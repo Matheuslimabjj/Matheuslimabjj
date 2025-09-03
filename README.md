@@ -1,4 +1,4 @@
-<img width="909" height="323" alt="image" src="https://github.com/user-attachments/assets/e5695282-67c5-4ce5-a403-8ecae345e114" /><p align="center">
+
   <img src="https://i.postimg.cc/43zwDJgQ/Season-4-Episode-3-GIF-by-Rick-and-Morty.gif" alt="Rick and Morty" width="300"/>
 </p>
 
