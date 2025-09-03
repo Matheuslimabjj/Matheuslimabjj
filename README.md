@@ -1,4 +1,4 @@
-<p align="center">
+<img width="909" height="323" alt="image" src="https://github.com/user-attachments/assets/e5695282-67c5-4ce5-a403-8ecae345e114" /><p align="center">
   <img src="https://i.postimg.cc/43zwDJgQ/Season-4-Episode-3-GIF-by-Rick-and-Morty.gif" alt="Rick and Morty" width="300"/>
 </p>
 
@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus! 👋</h1>
-<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Estudante de DevSecOps | Apaixonado por Cybersecurity e Cloud</h3>
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Estudante de ADS | Apaixonado por Cibersegurança e Segurança da Informação</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Aprendendo%20todos%20os%20dias-blue?style=for-the-badge&logo=codeforces" />
@@ -23,9 +23,9 @@
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas**, Em transição de carreira  
 🔐 **Explorando fundamentos de segurança ofensiva (Red)🔴 e defensiva (Blue)🔵**  
-☁️ **Aprendendo a construir e proteger aplicações na nuvem**  
-🛡️ **Estudando AWS, Azure, CI/CD e práticas de DevSecOps**  
-🥋 **Faixa marrom de Jiu-Jitsu — foco, disciplina e persistência estão no meu DNA**  
+🐧 **Linux Lover**  
+🛡️ **Análise de vulnerabilidades em sistemas e infraestruturas*  
+🥋 **Faixa marrom de Jiu-Jitsu — foco, disciplina, resiliência e persistência estão no meu DNA**  
 
 </div>
 
