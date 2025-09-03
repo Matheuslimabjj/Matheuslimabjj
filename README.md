@@ -22,7 +22,7 @@
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas**, Em transição de carreira  
 🔐 **Explorando Segurança ofensiva (Red)🔴 e defensiva (Blue)🔵**  
-🐧 **Linux Lover**  
+🐧 **Linux Lover**  🐞 **Bug Hunter**
 🛡️ **Análise de vulnerabilidades em sistemas e infraestruturas**  
 🥋 **Faixa marrom de Jiu-Jitsu — foco, disciplina, resiliência e persistência estão no meu DNA**  
 
