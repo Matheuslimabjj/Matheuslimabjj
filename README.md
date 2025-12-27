@@ -20,7 +20,7 @@
   
 # 🌟 Sobre mim  
 
-🎓 **Graduando em Análise e Desenvolvimento de Sistemas**, Em transição de carreira  
+🎓 **Graduando em Análise e Desenvolvimento de Sistemas** 
 🔐 **Explorando Segurança ofensiva (Red)🔴 e defensiva (Blue)🔵**  
 🐧 **Linux Lover**  🐞 **Bug Hunter**
 🛡️ **Análise de vulnerabilidades em sistemas e infraestruturas**  
