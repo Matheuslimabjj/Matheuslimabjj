@@ -23,7 +23,7 @@
 🎓 **Graduando em ADS** Entusiasta de **Segurança Ofensiva (Red Team)**.
 ☁️ Estudando **Segurança em Nuvem (AWS)** e infraestrutura.
 💻 Explorando **Linguagem C** para entender exploração de baixo nível e arquitetura.
-🕵️‍♂️ Caçador de vulnerabilidades e **Web Penetration Testing**.
+🕷️ Caçador de vulnerabilidades e **Web Penetration Testing**.
 🥋 **Faixa marrom de Jiu-Jitsu** — Foco e resiliência!
 
 </div>
