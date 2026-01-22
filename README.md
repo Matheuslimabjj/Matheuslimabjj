@@ -20,11 +20,11 @@
   
 # 🎯 Objetivo & Foco 
 
-🎓 **Graduando em ADS** com foco total em **Segurança Ofensiva (Red Team)**.
-☁️ Atualmente aprofundando em **Segurança em Nuvem (AWS)** e infraestrutura.
-💻 Dedicado ao estudo de **Linguagem C** para entender exploração de baixo nível e arquitetura.
-🕵️‍♂️ Especialista em busca por vulnerabilidades e **Web Penetration Testing**.
-🥋 **Faixa marrom de Jiu-Jitsu** — Foco e resiliência aplicados ao hacking.
+🎓 **Graduando em ADS** Entusiasta de **Segurança Ofensiva (Red Team)**.
+☁️ Estudando **Segurança em Nuvem (AWS)** e infraestrutura.
+💻 Explorando **Linguagem C** para entender exploração de baixo nível e arquitetura.
+🕵️‍♂️ Caçador de vulnerabilidades e **Web Penetration Testing**.
+🥋 **Faixa marrom de Jiu-Jitsu** — Foco e resiliência!
 
 </div>
 
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Injection-red?style=flat-square" />
 
 ### 💻 Linguagens & Core
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 ### 🏆 Plataformas & Lab
 <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
