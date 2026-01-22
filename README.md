@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20Exploitation-red?style=for-the-badge&logo=target" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20Security-orange?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Role-Bug%20Hunter-green?style=for-the-badge&logo=bugcrowd" />
+  <img src="https://img.shields.io/badge/Language-C%20for%20Security-blue?style=for-the-badge&logo=c" />
 </p>
 
 ---
@@ -21,9 +21,10 @@
 # 🎯 Objetivo & Foco 
 
 🎓 **Graduando em ADS** com foco total em **Segurança Ofensiva (Red Team)**.
-☁️ Atualmente aprofundando em **Segurança em Nuvem (AWS)** e infraestrutura escalável.
-web 🕵️‍♂️ Especialista em busca por vulnerabilidades web e **Web Penetration Testing**.
-🥋 **Faixa marrom de Jiu-Jitsu** — Disciplina de tatame aplicada à persistência do hacking.
+☁️ Atualmente aprofundando em **Segurança em Nuvem (AWS)** e infraestrutura.
+💻 Dedicado ao estudo de **Linguagem C** para entender exploração de baixo nível e arquitetura.
+🕵️‍♂️ Especialista em busca por vulnerabilidades e **Web Penetration Testing**.
+🥋 **Faixa marrom de Jiu-Jitsu** — Foco e resiliência aplicados ao hacking.
 
 </div>
 
@@ -33,17 +34,17 @@ web 🕵️‍♂️ Especialista em busca por vulnerabilidades web e **Web Pene
   
 # 🛠️ Stack Técnica & Arsenal
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Infra
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 
 ### 🔴 Red Teaming & Web Exploitation
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Injection-red?style=flat-square" /> <img src="https://img.shields.io/badge/XSS%20Exploitation-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Injection-red?style=flat-square" />
 
-### 💻 Linguagens & Lab
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+### 💻 Linguagens & Core
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-### 🏆 Plataformas de Treino
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/HackerOne-0073B1?style=flat-square&logo=hackerone&logoColor=white" />
+### 🏆 Plataformas & Lab
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 
 </div>
 
@@ -52,10 +53,6 @@ web 🕵️‍♂️ Especialista em busca por vulnerabilidades web e **Web Pene
 <div align="center">
   
 # 📊 GitHub Stats
-</div>
-  
-# 📊 GitHub Stats  
-
 </div>
 
 <p align="center">
