@@ -5,26 +5,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Enthusiast;Red%26Blue+em+aprendizado;Bug+Hunting&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
 </p>
 
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus! 👋</h1>
-<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Estudante de ADS | Apaixonado por Cibersegurança e Segurança da Informação</h3>
+<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus, aka "iceShaher"! 👋</h1>
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Estudante de ADS | Aspiring Pentester & Cloud Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20todos%20os%20dias-blue?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-purple?style=for-the-badge&logo=thealgorithms" />
-  <img src="https://img.shields.io/badge/Trilha-DevSecOps%20e%20Cloud-informational?style=for-the-badge&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Exploitation-red?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20Security-orange?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Role-Bug%20Hunter-green?style=for-the-badge&logo=bugcrowd" />
 </p>
 
 ---
 
 <div align="center">
   
-# 🌟 Sobre mim  
+# 🎯 Objetivo & Foco 
 
-🎓 **Graduando em Análise e Desenvolvimento de Sistemas** 
-🔐 **Explorando Segurança ofensiva (Red)🔴 e defensiva (Blue)🔵**  
-🐧 **Linux Lover**  🐞 **Bug Hunter**
-🛡️ **Análise de vulnerabilidades em sistemas e infraestruturas**  
-🥋 **Faixa marrom de Jiu-Jitsu — foco, disciplina, resiliência e persistência estão no meu DNA**  
+🎓 **Graduando em ADS** com foco total em **Segurança Ofensiva (Red Team)**.
+☁️ Atualmente aprofundando em **Segurança em Nuvem (AWS)** e infraestrutura escalável.
+web 🕵️‍♂️ Especialista em busca por vulnerabilidades web e **Web Penetration Testing**.
+🥋 **Faixa marrom de Jiu-Jitsu** — Disciplina de tatame aplicada à persistência do hacking.
 
 </div>
 
@@ -32,41 +31,28 @@
 
 <div align="center">
   
-# 💡 Stacks e Tecnologias em Estudo  
+# 🛠️ Stack Técnica & Arsenal
+
+### ☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+### 🔴 Red Teaming & Web Exploitation
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Injection-red?style=flat-square" /> <img src="https://img.shields.io/badge/XSS%20Exploitation-orange?style=flat-square" />
+
+### 💻 Linguagens & Lab
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+
+### 🏆 Plataformas de Treino
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/HackerOne-0073B1?style=flat-square&logo=hackerone&logoColor=white" />
 
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=3776AB" />
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=4EAA25" />
-  <img src="https://img.shields.io/badge/Security-Fundamentos-informational?style=flat&logo=linux&color=FCC624" />
-  <img src="https://img.shields.io/badge/Platform-HackTheBox-informational?style=flat&logo=hackthebox&color=9FEF00" />
-  <img src="https://img.shields.io/badge/Platform-TryHackMe-informational?style=flat&logo=tryhackme&color=212C42" />
-  
-  <!-- Sistemas Operacionais -->
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=kalilinux&color=557C94" />
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&color=FCC624" />
-  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&color=0078D6" />
-  
-  <!-- Ferramentas de Segurança -->
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-informational?style=flat&logo=burpsuite&color=FF6633" />
-  <img src="https://img.shields.io/badge/Tool-Metasploit-informational?style=flat&logo=metasploit&color=2596CD" />
-  <img src="https://img.shields.io/badge/Tool-John%20the%20Ripper-informational?style=flat&logo=linux&color=8B0000" />
-  <img src="https://img.shields.io/badge/Tool-Wireshark-informational?style=flat&logo=wireshark&color=1679A7" />
-  <img src="https://img.shields.io/badge/Tool-Nmap-informational?style=flat&logo=nmap&color=4682B4" />
-  
-  <!-- Conhecimentos em Segurança -->
-  <img src="https://img.shields.io/badge/Security-OWASP%20Top%2010-informational?style=flat&logo=owasp&color=000000" />
-  <img src="https://img.shields.io/badge/Security-Criptografia-informational?style=flat&logo=letsencrypt&color=003A70" />
-  <img src="https://img.shields.io/badge/Security-OSINT-informational?style=flat&logo=osint&color=FF6B35" />
-  <img src="https://img.shields.io/badge/Security-Threat%20Intelligence-informational?style=flat&logo=security&color=DC143C" />
-  <img src="https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-informational?style=flat&logo=mitre&color=FF0000" />
-</p>
 
 ---
 
 <div align="center">
+  
+# 📊 GitHub Stats
+</div>
   
 # 📊 GitHub Stats  
 
