@@ -2,48 +2,49 @@
   <img src="https://i.postimg.cc/43zwDJgQ/Season-4-Episode-3-GIF-by-Rick-and-Morty.gif" alt="Rick and Morty" width="300">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Enthusiast;Red%26Blue+em+aprendizado;Bug+Hunting&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Cybersecurity+Student;Cloud+Security+Enthusiast;Bug+Hunter+%26+Researcher&center=true&width=800&height=50&color=00FFFF&size=24" alt="Typing SVG">
 </p>
 
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">Olá, eu sou o Matheus, aka "iceShaher"! 👋</h1>
-<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Estudante de ADS | Aspiring Pentester & Cloud Security Enthusiast</h3>
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #FF00FF;">Analista de Cibersegurança em Formação | AWS Cloud Security | Red & Blue Team</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Exploitation-red?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20Security-orange?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Language-C%20for%20Security-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Security-orange?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Specialty-Web%20Exploitation-red?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Background-Military%20Intelligence-blue?style=for-the-badge&logo=airforce" />
 </p>
 
 ---
 
 <div align="center">
-  
-# 🎯 Objetivo & Foco 
 
-🎓 **Graduando em ADS** Entusiasta de **Segurança Ofensiva (Red Team)**.
-☁️ Estudando **Segurança em Nuvem (AWS)** e infraestrutura.
-💻 Explorando **Linguagem C** para entender exploração de baixo nível e arquitetura.
-🕷️ Caçador de vulnerabilidades e **Web Penetration Testing**.
-🥋 **Faixa marrom de Jiu-Jitsu** — Foco e resiliência!
+# 🎯 Objetivo & Foco Profissional
+
+[cite_start]🎓 **Graduando em ADS** com foco em Segurança da Informação[cite: 5, 31].
+☁️ Especializando em **Cloud Security** pela **Escola da Nuvem (AWS re/Start)**.
+[cite_start]🛡️ Atuação em **Defesa Cibernética** (Monitoramento SOC, Logs e SIEM)[cite: 9].
+[cite_start]🕷️ **Bug Hunter** e Pesquisador de Vulnerabilidades no Open Bug Bounty[cite: 15, 16].
+[cite_start]💻 Explorando **Linguagem C** e **Python** para automação de segurança e análise de baixo nível[cite: 13, 39, 40].
+[cite_start]🥋 **Faixa marrom de Jiu-Jitsu** — Disciplina, foco e resiliência operacional[cite: 7, 27].
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 # 🛠️ Stack Técnica & Arsenal
 
-### ☁️ Cloud & Infra
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+### ☁️ Cloud & Infrastructure (AWS re/Start Journey)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-### 🔴 Red Teaming & Web Exploitation
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+### 🔴 Security Operations (Red & Blue Team)
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 
-### 💻 Linguagens & Core
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+### 💻 Languages & Automation
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-### 🏆 Plataformas & Lab
+### 🏆 Platforms & Labs
 <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 
 </div>
@@ -51,7 +52,7 @@
 ---
 
 <div align="center">
-  
+
 # 📊 GitHub Stats
 </div>
 
@@ -63,21 +64,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslimabjj&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslimabjj&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 <div align="center">
-  
-# 🌎 Vamos nos conectar!  
+
+# 🌎 Vamos nos conectar!
 
 </div>
 
 <p align="center">
-  <a href="mailto:mfolima.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mfolima.dev@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/matheus-lima-91a221334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  [cite_start]<a href="mailto:mfolima.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mfolima.dev@gmail.com-red?style=for-the-badge&logo=gmail"></a> [cite: 2]
+  [cite_start]<a href="https://www.linkedin.com/in/matheus-lima-91a221334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> [cite: 2]
 </p>
 
 <p align="center">
