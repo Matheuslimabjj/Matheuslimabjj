@@ -22,9 +22,9 @@
 
 🎓 **Graduando em ADS** com foco em Segurança da Informação
 ☁️ Especializando em **Cloud Security**.
-🕷️ **Bug Hunter** e Pesquisador de Vulnerabilidades no Open Bug Bounty
+🕷️ **Bug Hunter** e Pesquisador de Vulnerabilidades
 💻 Explorando **Linguagem C** e **Python** para automação de segurança e análise de baixo nível
-🥋 **Faixa marrom de Jiu-Jitsu** — Disciplina, foco e resiliência operacional
+🥋 **Faixa marrom de Jiu-Jitsu** Disciplina, foco e resiliência operacional
 
 </div>
 
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ### 🔴 Security Operations (Red & Blue Team)
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 
 ### 💻 Languages & Automation
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
@@ -53,16 +53,12 @@
 <div align="center">
 
 # 📊 GitHub Stats
-</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuslimabjj&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuslimabjj&show_icons=true&theme=radical&hide_border=true" alt="Status do GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslimabjj&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslimabjj&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 <div align="center">
