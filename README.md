@@ -52,11 +52,11 @@
 
 <div align="center">
 
+
 # 📊 GitHub Stats
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=matheuslimabjj&show_icons=true&theme=radical&hide_border=true)
+![Stats de Matheus](https://github-readme-streak-stats.herokuapp.com/?user=matheuslimabjj&theme=radical&hide_border=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=matheuslimabjj&layout=compact&theme=radical&hide_border=true)
 ---
 
 <div align="center">
