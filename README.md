@@ -55,7 +55,14 @@
 
 # 📊 GitHub Stats
 
-![Stats de Matheus](https://github-readme-streak-stats.herokuapp.com/?user=matheuslimabjj&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslimabjj&theme=radical&hide_border=true" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=matheuslimabjj&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 
 ---
 
