@@ -20,12 +20,11 @@
 
 # 🎯 Objetivo & Foco Profissional
 
-[cite_start]🎓 **Graduando em ADS** com foco em Segurança da Informação[cite: 5, 31].
-☁️ Especializando em **Cloud Security** pela **Escola da Nuvem (AWS re/Start)**.
-[cite_start]🛡️ Atuação em **Defesa Cibernética** (Monitoramento SOC, Logs e SIEM)[cite: 9].
-[cite_start]🕷️ **Bug Hunter** e Pesquisador de Vulnerabilidades no Open Bug Bounty[cite: 15, 16].
-[cite_start]💻 Explorando **Linguagem C** e **Python** para automação de segurança e análise de baixo nível[cite: 13, 39, 40].
-[cite_start]🥋 **Faixa marrom de Jiu-Jitsu** — Disciplina, foco e resiliência operacional[cite: 7, 27].
+🎓 **Graduando em ADS** com foco em Segurança da Informação
+☁️ Especializando em **Cloud Security**.
+🕷️ **Bug Hunter** e Pesquisador de Vulnerabilidades no Open Bug Bounty
+💻 Explorando **Linguagem C** e **Python** para automação de segurança e análise de baixo nível
+🥋 **Faixa marrom de Jiu-Jitsu** — Disciplina, foco e resiliência operacional
 
 </div>
 
@@ -35,14 +34,14 @@
 
 # 🛠️ Stack Técnica & Arsenal
 
-### ☁️ Cloud & Infrastructure (AWS re/Start Journey)
+### ☁️ Cloud & Infrastructure
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ### 🔴 Security Operations (Red & Blue Team)
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white" />
 
 ### 💻 Languages & Automation
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 
 ### 🏆 Platforms & Labs
 <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
@@ -73,8 +72,8 @@
 </div>
 
 <p align="center">
-  [cite_start]<a href="mailto:mfolima.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mfolima.dev@gmail.com-red?style=for-the-badge&logo=gmail"></a> [cite: 2]
-  [cite_start]<a href="https://www.linkedin.com/in/matheus-lima-91a221334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a> [cite: 2]
+  <a href="mailto:mfolima.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mfolima.dev@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/matheus-lima-91a221334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 <p align="center">
